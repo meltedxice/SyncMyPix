@@ -75,6 +75,7 @@
 		android:layout_height="match_parent"
 		android:layout_below="@id/notfound"
 		android:layout_above="@id/footer"
+		android:fastScrollEnabled="true"
 	 />
 	
 	<RelativeLayout android:id="@+id/footer" 
